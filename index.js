@@ -18,6 +18,7 @@ app.get('/daily', (req, res) => {
   res.sendFile(__dirname + '/public/daily/index.html');
 });
 
+
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`);
 });
