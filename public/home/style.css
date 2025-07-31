@@ -113,7 +113,7 @@ header .header-nav-bar > .menu-bar-button-group {
 header .header-nav-bar > .menu-bar-button-group .menu-button { 
   display: black;
   width: 150px;
-  cursor: default;
+  cursor: pointer;
   justify-content: center;
   align-items: center;
   padding: 10px;
